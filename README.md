@@ -1,5 +1,3 @@
-# dotNET-Cookbook
-
 # .NET Programming Resources Repository
 
 Welcome to the .NET Programming Resources Repository! This repository is a curated collection of resources that can help you in your .NET programming journey. Whether you're looking for insightful blogs, informative YouTube videos, useful libraries, or recommended books, you'll find it all here.
@@ -9,6 +7,7 @@ Welcome to the .NET Programming Resources Repository! This repository is a curat
 - [Introduction](#introduction)
 - [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
@@ -39,6 +38,10 @@ Your contributions are greatly appreciated. If you have additional resources to 
 5. Create a pull request with a clear description of your contributions.
 
 Your contributions help make this repository a valuable resource hub for the .NET community. Thank you for your support!
+
+## License
+
+This repository is available under the [MIT License](LICENSE). You are free to use, modify, and share the resources provided here, but please adhere to the terms of the license.
 
 ---
 
