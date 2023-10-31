@@ -12,15 +12,15 @@ This subdirectory contains a collection of libraries and packages that can help 
 
 - **[Moq](moq.md):** Moq is a powerful mocking library for .NET that simplifies the creation of mock objects for unit testing. It allows you to isolate and test individual components of your application. [Learn more](https://github.com/moq/moq4)
 
-- **Entity Framework:** Entity Framework is an ORM (Object-Relational Mapping) framework for .NET that simplifies database access. It allows you to work with databases using .NET objects, making database-related tasks more efficient.
+- **[Entity Framework](entity-framework.md):** Entity Framework is an ORM (Object-Relational Mapping) framework for .NET that simplifies database access. It allows you to work with databases using .NET objects, making database-related tasks more efficient. [Learn more](https://learn.microsoft.com/en-us/ef/)
 
-- **FluentValidation:** FluentValidation is a library for building strongly-typed validation rules in your .NET applications. It provides a fluent API for defining validation logic and is commonly used for form validation and data input validation.
+- **[FluentValidation](fluentvalidation.md):** FluentValidation is a library for building strongly-typed validation rules in your .NET applications. It provides a fluent API for defining validation logic and is commonly used for form validation and data input validation. [Learn more](https://docs.fluentvalidation.net/en/latest/)
 
-- **AsyncFixer:** AsyncFixer is a Roslyn-based code analyzer and code fix provider that helps identify and correct common mistakes in asynchronous programming in .NET.
+- **[AsyncFixer](asyncfixer.md):** AsyncFixer is a Roslyn-based code analyzer and code fix provider that helps identify and correct common mistakes in asynchronous programming in .NET. [Learn more](https://github.com/semihokur/AsyncFixer)
 
-- **MediatR:** MediatR is a library that simplifies the implementation of the mediator pattern in .NET applications. It helps in decoupling components and improving the organization of your code.
+- **[MediatR](mediatr.md):** MediatR is a library that simplifies the implementation of the mediator pattern in .NET applications. It helps in decoupling components and improving the organization of your code. [Learn more](https://github.com/jbogard/MediatR)
 
-- **Humanizer:** Humanizer is a library that provides helpful extensions for string manipulation and conversion. It makes your code more user-friendly by adding humanized formats for text, dates, and more.
+- **[Humanizer](humanizer.md):** Humanizer is a library that provides helpful extensions for string manipulation and conversion. It makes your code more user-friendly by adding humanized formats for text, dates, and more. [Learn more](https://github.com/Humanizr/Humanizer)
 
 Please click on the links to learn more about each library and how they can benefit your .NET development projects.
 
