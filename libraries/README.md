@@ -22,6 +22,8 @@ This subdirectory contains a collection of libraries and packages that can help 
 
 - **[Entity Framework](entity-framework.md):** Entity Framework is an ORM (Object-Relational Mapping) framework for .NET that simplifies database access. It allows you to work with databases using .NET objects, making database-related tasks more efficient. [Learn more](https://learn.microsoft.com/en-us/ef/)
 
+- **[Dapper](dapper.md):** Dapper is a micro ORM for .NET that simplifies database access by providing efficient object mapping and query execution. It's known for its lightweight and high-performance characteristics. [Learn more](https://dapperlib.github.io/Dapper/)
+
 ## Validation Libraries
 
 - **[FluentValidation](fluentvalidation.md):** FluentValidation is a library for building strongly-typed validation rules in your .NET applications. It provides a fluent API for defining validation logic and is commonly used for form validation and data input validation. [Learn more](https://docs.fluentvalidation.net/en/latest/)
