@@ -9,7 +9,6 @@ Welcome to the .NET Programming Resources Repository! This repository is a curat
 - [Introduction](#introduction)
 - [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
