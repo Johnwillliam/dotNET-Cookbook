@@ -36,34 +36,26 @@ Welcome to the "Recommended Programming Books" repository! This repository conta
 
 ### Software Architecture
 
-7. **"Software Architecture in Practice" by Len Bass, Paul Clements, Rick Kazman**
-    - A practical guide to software architecture concepts and practices.
-
-8. **"Clean Architecture: A Craftsman's Guide to Software Structure and Design" by Robert C. Martin**
+7. **"Clean Architecture: A Craftsman's Guide to Software Structure and Design" by Robert C. Martin**
     - Focuses on clean architecture principles and patterns.
-
-### Theory of Computation
-
-9. **"Introduction to the Theory of Computation" by Michael Sipser**
-    - A foundational book on the theory of computation and automata theory.
 
 ### Databases and Software Engineering
 
-10. **"Database Systems: The Complete Book" by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom**
+8. **"Database Systems: The Complete Book" by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom**
     - A comprehensive guide to database systems.
 
-11. **"The Mythical Man-Month: Essays on Software Engineering" by Frederick P. Brooks Jr.**
+9. **"The Mythical Man-Month: Essays on Software Engineering" by Frederick P. Brooks Jr.**
     - Explores software engineering concepts and project management.
 
 ### Advanced Concepts and Practices
 
-12. **"Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley**
+10. **"Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley**
     - Discusses modern software delivery and automation practices.
 
-13. **"Agile Estimating and Planning" by Mike Cohn**
+11. **"Agile Estimating and Planning" by Mike Cohn**
     - A guide to agile project estimation and planning.
 
-14. **"The Art of Computer Programming" by Donald E. Knuth**
+12. **"The Art of Computer Programming" by Donald E. Knuth**
     - A multi-volume work covering fundamental computer science algorithms and data structures.
 
 Please explore each category to find books that align with your learning objectives and programming interests. You'll find additional details, examples, and explanations in the respective book files.
