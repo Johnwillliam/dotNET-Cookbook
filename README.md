@@ -1,6 +1,6 @@
 # .NET Programming Resources Repository
 
-Welcome to the .NET Programming Resources Repository! This repository is a curated collection of resources that can help you in your .NET programming journey. Whether you're looking for insightful blogs, informative YouTube videos, useful libraries, or recommended books, you'll find it all here.
+Welcome to the .NET Programming Resources Repository! This repository is a curated collection of resources that can help you in your .NET programming journey. Whether you're looking for insightful blogs, informative YouTube videos, useful libraries, recommended books, or valuable design patterns and software principles, you'll find it all here.
 
 ## Table of Contents
 
@@ -24,6 +24,8 @@ The repository is organized into the following categories:
 - **[Libraries](libraries/):** Find useful libraries, frameworks, and packages that can be integrated into your .NET projects to simplify development tasks.
 
 - **[Books](books/):** Explore recommended books and publications for in-depth learning and reference in the world of .NET development.
+
+- **[Design Patterns and Software Principles](patterns_and_principles/patterns_and_principles.md):** This section provides an overview of common software design patterns and principles that can help you write clean, maintainable, and efficient code. Understanding and applying these patterns and principles can lead to improved software architecture and development practices.
 
 Feel free to explore the categories and subdirectories to access specific resources. Each category may contain its own README with further details.
 
