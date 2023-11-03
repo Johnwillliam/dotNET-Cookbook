@@ -6,13 +6,13 @@ This section provides an overview of common software design patterns and princip
 
 ### Creational Patterns
 
-1. **[Singleton Pattern](singleton.md):** Ensures a class has only one instance and provides a global point of access to that instance.
+1. **[Singleton Pattern](creational_patterns/singleton.md):** Ensures a class has only one instance and provides a global point of access to that instance.
 
-2. **[Factory Method Pattern](factory_method.md):** Defines an interface for creating an object but allows subclasses to alter the type of objects that will be created.
+2. **[Factory Method Pattern](creational_patterns/factory_method.md):** Defines an interface for creating an object but allows subclasses to alter the type of objects that will be created.
 
-3. **[Abstract Factory Pattern](abstract_factory.md):** Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+3. **[Abstract Factory Pattern](creational_patterns/abstract_factory.md):** Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
-4. **[Builder Pattern](builder.md):** Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+4. **[Builder Pattern](creational_patterns/builder.md):** Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
 
 ### Structural Patterns
 
